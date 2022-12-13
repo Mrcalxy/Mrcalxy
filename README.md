@@ -20,7 +20,7 @@
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional](https://www.credly.com/badges/a10ed589-610a-40dd-8082-b88f4c988dd5/linked_in_profile)
-- [Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/link/1qsdpcedm9s)
+- [Fundamentals of Digital Marketing](https://imgur.com/a/gyzTGXX)
 
 
 <h2> 🤳 Connect with me:</h2>
