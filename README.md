@@ -18,7 +18,7 @@
   - [Active Directory with Azure VMs]
 
 - <b>How Tos</b>
-  - [How to install VirtualBox and Windows Server](https://google.com)
+  - [How to install VirtualBox and Windows Server](https://github.com/Mrcalxy/VBox-WS/edit/main/README.md)
 
 <h2>📄 Certifications</h2>
 
