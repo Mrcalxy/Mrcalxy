@@ -3,15 +3,12 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://example.com)
   - [osTicket: Post-Installation Configuration]
   - [osTicket: Ticket Lifecycle Examples]
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Mrcalxy/ActiveDirectoryLab/blob/main/README.md)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
   
 - <b>Microsoft Azure</b>
